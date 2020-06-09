@@ -1,0 +1,319 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#fdff75",
+        "marker-size": "medium",
+        "marker-symbol": "star-stroked",
+        "name": "Отель Риц",
+        "text": "Профессор религиозной символики Гарварда Роберт Лэнгдон, приглашенный в Париж для помощи в расследовании убийства, остановился в отеле Риц."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.328878939151764,
+          48.86798773220109
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#781fff",
+        "marker-size": "medium",
+        "marker-symbol": "museum",
+        "name": "Лувр",
+        "text": "Именно в Лувре куратор Жак Соньер был найден мертвым возле знаменитой картины Леонардо да Винчи."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3380279541015625,
+          48.86113630447305
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#d400ff",
+        "marker-size": "medium",
+        "marker-symbol": "triangle-stroked",
+        "name": "Пирамида Лувра",
+        "text": "По словам Дэна Брауна, пирамида состоит из дьявольского числа кристаллов – 666, однако это -- художественный вымысел. Официальное число стеклянных пластин в пирамиде – 698. "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.33584463596344,
+          48.86098631423488
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#23af93",
+        "marker-size": "medium",
+        "marker-symbol": "park",
+        "name": "Булонский лес",
+        "text": "Один из самых любимых парижанами парков. Прекрасное и живописное место для пробежек: бегом пробегают его и наши герои."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2594070434570312,
+          48.85833405966226
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ffd84d",
+        "marker-size": "medium",
+        "marker-symbol": "religious-christian",
+        "name": "Церковь Сен-Сюльпис",
+        "text": "Одна из крупнейших церквей Парижа. В книге, именно здесь убийца ищет краеугольный камень."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3348629474639893,
+          48.85089358556664
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff8f8f",
+        "marker-size": "medium",
+        "marker-symbol": "circle-stroked",
+        "name": "Шато де Виллет",
+        "text": "Красивый особняк, построенный в семнадцатом веке. В романе он принадлежит сэру Ли Тибингу."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.9393873214721677,
+          49.031734445320694
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff2e2e",
+        "marker-size": "medium",
+        "marker-symbol": "rail",
+        "name": "Вокзал Сен-Лазар",
+        "text": "Дэн Браун утверждал, что поезда с вокзала отправляются в направлении Лилля, что привело к иску со стороны французских железных дорог, ведь это неправда: поезда в Лилль уезжают с Северного вокзала "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3252418637275696,
+          48.876522914106225
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "",
+        "marker-color": "",
+        "marker-size": "",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.335860729217529,
+            48.860977491265686
+          ],
+          [
+            2.3379474878311157,
+            48.86113277529614
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.3288440704345703,
+            48.86814475882231
+          ],
+          [
+            2.338049411773681,
+            48.86111512940786
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.259409725666046,
+            48.85836405933547
+          ],
+          [
+            1.9393886625766752,
+            49.03174191922554
+          ],
+          [
+            1.9401168823242185,
+            49.0351670476844
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            1.9394731521606448,
+            49.031903267368136
+          ],
+          [
+            2.3348468542099,
+            48.85091300000716
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "",
+        "marker-color": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.3250675201416016,
+            48.876288295456625
+          ],
+          [
+            2.259235382080078,
+            48.85850346934557
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.3252391815185547,
+            48.87634474515705
+          ],
+          [
+            2.338070869445801,
+            48.86110101269274
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.3379474878311157,
+            48.86113277529614
+          ],
+          [
+            2.3380701988935466,
+            48.86110123326645
+          ],
+          [
+            2.338049076497555,
+            48.86111534998149
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.325066179037094,
+            48.87628917748368
+          ],
+          [
+            2.3252378404140472,
+            48.876345627183134
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0affda",
+        "marker-size": "medium",
+        "marker-symbol": "cross",
+        "name": "Елисейские поля",
+        "text": "Одно из самых протяженных (как и прекрасных) авеню в мире. Герои прогуливались по нему пешком. "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.305165529251098,
+          48.87073474480463
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.338070869445801,
+            48.86115747952929
+          ],
+          [
+            2.3051977157592773,
+            48.87092528343819
+          ]
+        ]
+      }
+    }
+  ]
+}
